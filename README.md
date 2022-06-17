@@ -52,7 +52,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Kiopsy/Instagram/blob/master/instagram.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Here's a walkthrough of implemented user stories:](https://imgur.com/a/D8vPaCo)
 
 
 ## Credits
