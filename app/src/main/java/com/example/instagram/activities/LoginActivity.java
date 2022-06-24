@@ -19,7 +19,7 @@ import com.parse.ParseUser;
 public class LoginActivity extends AppCompatActivity {
 
     public static final String TAG = "LoginActivity";
-    private EditText etUsername;
+    private EditText etUsername; // should start with `m`
     private EditText etPassword;
     private Button btnLogin;
     private Button btnSignup;
