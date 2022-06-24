@@ -55,7 +55,7 @@ public class PostDetailsActivity extends AppCompatActivity {
         setActionBarIcon();
     }
 
-    public void setActionBarIcon() {
+    public void setActionBarIcon() { // why it need to be public??
         ActionBar actionBar = getSupportActionBar();
         actionBar.setIcon(R.drawable.nav_logo_whiteout);
         actionBar.setDisplayUseLogoEnabled(true);
